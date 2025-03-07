@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Myapps
+Bundle-SymbolicName: myapps
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: myapps
+Bundle-RequiredExecutionEnvironment: JavaSE-17
